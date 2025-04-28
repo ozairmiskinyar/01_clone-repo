@@ -2,6 +2,10 @@
 
 Ce projet est un simple programme "Hello World" écrit en C qui affiche un message à l'écran.
 
+## Introduction à Git
+
+L'un des objectifs de cet exercice est de vous familiariser avec Git, un système de contrôle de version distribué. Vous devrez cloner ce dépôt pour obtenir le code source sur votre machine locale.
+
 ## Structure du projet
 
 - `src/main.c`: Fichier source contenant le code du programme
@@ -9,11 +13,15 @@ Ce projet est un simple programme "Hello World" écrit en C qui affiche un messa
 ## Prérequis
 
 - Un compilateur C (GCC)
+- Git installé sur votre système
 - Un terminal ou invite de commande
 
 ## Objectif
 
-L'objectif de cet exercice est de compiler et d'exécuter le programme fourni en utilisant GCC.
+Les objectifs de cet exercice sont :
+
+1. Cloner le projet à l'aide de Git
+2. Compiler et exécuter le programme fourni en utilisant GCC
 
 ## Résultat attendu
 
@@ -25,8 +33,9 @@ Hello, World!
 
 ## Consignes
 
-1. Vous devez utiliser le compilateur GCC pour ce projet
-2. Vous devez rechercher par vous-même comment compiler et exécuter un programme C
+1. Vous devez d'abord cloner ce dépôt Git sur votre machine locale
+2. Vous devez utiliser le compilateur GCC pour ce projet
+3. Vous devez rechercher par vous-même comment cloner un dépôt Git, ainsi que comment compiler et exécuter un programme C
 
 ## Exercices supplémentaires (optionnels)
 
