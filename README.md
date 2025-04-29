@@ -35,7 +35,6 @@ Hello, World!
 
 1. Vous devez d'abord cloner ce dépôt Git sur votre machine locale
 2. Vous devez utiliser le compilateur GCC pour ce projet
-3. Vous devez rechercher par vous-même comment cloner un dépôt Git, ainsi que comment compiler et exécuter un programme C
 
 ## Exercices supplémentaires (optionnels)
 
